@@ -13,6 +13,7 @@ Current and planned topics include:
 - `ml-review/` — Jupyter notebooks for learning and reviewing the basics of machine learning
   - linear model and gradient descent
   - simple neural network
+  - simple Adam
 
 ## Tools
 
